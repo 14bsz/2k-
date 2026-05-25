@@ -1,0 +1,6 @@
+{
+  "name": "NBA2KOL2 合卡盈亏记录器",
+  "description": "专为NBA2KOL2玩家设计的合卡盈亏记录与统计分析工具。支持主副卡自动匹配计算、历史收益追踪以及总卡量动态更新。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
